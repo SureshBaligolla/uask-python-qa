@@ -1,0 +1,44 @@
+💻 Running in desktop mode
+Already logged in, skipping login step.
+🖱️ Clicked 'Log in with email'.
+🔐 Login submitted with test credentials.
+✅ Chat input box is visible.
+💬 Sent text: What are UAE government services?
+📌 Baseline messages: 4
+🆕 New AI response sequence detected (new blocks appended).
+⏳ AI response growing: 33 chars, blocks=2
+⏳ AI response growing: 118 chars, blocks=6
+⏳ AI response growing: 195 chars, blocks=9
+⏳ AI response growing: 359 chars, blocks=10
+✅ Final AI response captured (359 chars).
+🔍 Similarity Score: 0.700
+
+🌍 English Prompt: What are UAE government services?
+Expected: The UAE government offers a wide range of services including Emirates ID issuance, passport renewal, visa processing, healthcare registration, and business licensing. Most of these are available through the UAE digital government portal.
+Actual (359 chars): Healthcare
+
+Business & Investment
+
+Justice & Safety
+
+Housing & Utilities
+
+Transportation
+
+Social Welfare & Community
+
+Environment & Energy
+
+Public Holidays & Religious Affairs
+
+Digital Government
+
+1
+: UAE Government Services Overview – Unified Portal
+2
+: Information and Services – UAE Government Portal
+3
+: UAE PASS – Digital Identity for Government Services
+🔍 Similarity Score: 0.7
+✅ English validated successfully with similarity 0.700
+DEBUG Arabic Data → prompt_ar=None, expected_ar=None

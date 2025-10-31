@@ -1,0 +1,11 @@
+💻 Running in desktop mode
+Already logged in, skipping login step.
+🖱️ Clicked 'Log in with email'.
+🔐 Login submitted with test credentials.
+✅ Chat input box is visible.
+💬 Sent text: What are UAE government services?
+📌 Baseline messages: 4
+⚠️ Timeout reached — returning best observed response (0 chars).
+⚠️ English response seems incomplete, retrying...
+📌 Baseline messages: 1
+⚠️ Timeout reached — returning best observed response (0 chars).
