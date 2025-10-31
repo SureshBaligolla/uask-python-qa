@@ -1,12 +1,38 @@
 [
   {
-    "prompt_en": "Hello",
-    "expected_en": "Hello! How can I help you today? If you have any questions about government operations, Emirati culture, or need definitions or information, just let me know."
+    "prompt_en": "What are UAE government services?",
+    "expected_en": "The UAE government offers a wide range of services including Emirates ID issuance, passport renewal, visa processing, healthcare registration, and business licensing. Most of these are available through the UAE digital government portal."
+
   },
   {
     "prompt_en": "Who are you?",
     "expected_en": "I am GovGPT, an AI assistant created to give clear, accurate, and culturally respectful answers to your questions — especially about government operations, Emirati culture, and Islamic values."
   },
+  {
+    "prompt_en": "Hello",
+    "expected_en": "Hello! How can I help you today? If you have any questions about government operations, Emirati culture, or need definitions or information, just let me know."
+  },
+  {
+    "prompt_en": "Tell me about UAE culture",
+    "expected_en": "The UAE culture is rooted in Arab and Islamic traditions that value hospitality, respect, and family. It beautifully combines modern progress with a deep appreciation for heritage."
+  },
+  {
+    "prompt_en": "What is your name?",
+    "expected_en": "My name is GovGPT, your government information assistant."
+  },
+  {
+    "prompt_en": "asdfghjk",
+    "expected_en": "Sorry, I didn’t understand that. Please try again or ask your question differently."
+  },
+  {
+    "prompt_en": "simulate_api_failure",
+    "expected_en": "Sorry, I’m having trouble responding right now. Please try again later."
+  },
+  {
+    "prompt_en": "simulate_slow_response",
+    "expected_en": "Loading..."
+  },
+
 
   {
     "prompt_ar": "مرحبا",
@@ -15,5 +41,25 @@
   {
     "prompt_ar": "من أنت؟",
     "expected_ar": "أنا GovGPT، مساعد ذكي مصمم لتقديم إجابات دقيقة وواضحة تحترم القيم الإسلامية والثقافة الإماراتية، خاصة في ما يتعلق بالعمليات الحكومية أو أي استفسارات عامة أخرى."
+  },
+  {
+    "prompt_ar": "ما هي الخدمات الحكومية في الإمارات؟",
+    "expected_ar": "تقدم الحكومة الإماراتية مجموعة واسعة من الخدمات مثل إصدار الهوية الإماراتية، تجديد جواز السفر، معالجة التأشيرات، التسجيل الصحي، وترخيص الأعمال، ويمكن الوصول إليها عبر البوابة الحكومية الرقمية الرسمية."
+  },
+  {
+    "prompt_ar": "حدثني عن ثقافة الإمارات",
+    "expected_ar": "الثقافة الإماراتية متجذرة في التقاليد العربية والإسلامية، وتركز على الكرم والاحترام وروابط الأسرة، وتعكس مزيجًا من التقدم الحديث والتراث التقليدي."
+  },
+  {
+    "prompt_ar": "ما اسمك؟",
+    "expected_ar": "اسمي GovGPT، مساعدك الذكي للمعلومات الحكومية."
+  },
+  {
+    "prompt_ar": "اختبر الاتجاه",
+    "expected_ar": "واجهة المستخدم باللغة العربية يجب أن تكون من اليمين إلى اليسار (RTL)."
+  },
+  {
+    "prompt_ar": "رموز عشوائية",
+    "expected_ar": "عذرًا، لم أفهم ذلك. يرجى المحاولة مرة أخرى أو طرح سؤالك بطريقة مختلفة."
   }
 ]

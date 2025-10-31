@@ -109,3 +109,9 @@ Fewer false failures compared to string matching
 
 
 Maintainer: Suresh Baligolla
+
+
+Run offline reports
+
+cd reports/allure-report
+python3 -m http.server 8000
