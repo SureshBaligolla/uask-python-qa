@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+.idea/
+.DS_Store
+
+# Allure raw results (keep only the HTML report)
+reports/allure-results/

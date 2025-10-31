@@ -1,0 +1,7 @@
+selenium
+pytest
+pytest-html
+openai
+numpy
+webdriver-manager
+python-dotenv
