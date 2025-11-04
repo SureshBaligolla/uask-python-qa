@@ -1,0 +1,6 @@
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Who are you?
+{'event': 'prompt_sent', 'prompt_len': 12, 'prompt_preview': 'Who are you?'}
+{'event': 'response_received', 'chars': 772, 'delay_s': 3.6}
+English similarity: 0.951

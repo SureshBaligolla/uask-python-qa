@@ -1,0 +1,26 @@
+Running in desktop mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+Final AI response captured (290 chars)
+English similarity: 0.841
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Who are you?
+Final AI response captured (594 chars)
+English similarity: 0.942
+Closing desktop driver session
+Running in mobile emulation mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+Clicked send button
+Final AI response captured (290 chars)
+English similarity: 0.841
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Who are you?
+Clicked send button
+Final AI response captured (648 chars)
+English similarity: 0.953
+Closing mobile driver session

@@ -1,0 +1,7 @@
+Running in desktop mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+{'event': 'prompt_sent', 'prompt_len': 5, 'prompt_preview': 'Hello'}
+{'event': 'response_received', 'chars': 310, 'delay_s': 3.66}
+English similarity: 0.713

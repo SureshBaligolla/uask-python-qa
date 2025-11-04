@@ -1,0 +1,14 @@
+Running in desktop mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: How to get new emirates id
+{'event': 'prompt_sent', 'prompt_len': 26, 'prompt_preview': 'How to get new emirates id'}
+{'event': 'short_or_interim_detected', 'chars': 17, 'is_interim': False}
+{'event': 'response_received', 'chars': 17, 'delay_s': 2.93}
+Saved debug artifacts for short response: screenshots/debug-20251104T121526-509e38-1762238743.png, screenshots/debug-20251104T121526-509e38-1762238743.html
+English response seems incomplete, retrying
+{'event': 'short_or_interim_detected', 'chars': 16, 'is_interim': False}
+{'event': 'response_received', 'chars': 16, 'delay_s': 7.37}
+Saved debug artifacts for short response: screenshots/debug-20251104T121526-509e38-1762238748.png, screenshots/debug-20251104T121526-509e38-1762238748.html
+English similarity: 0.109
+Closing desktop driver session

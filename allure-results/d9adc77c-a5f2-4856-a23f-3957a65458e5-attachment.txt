@@ -1,0 +1,7 @@
+Chat input box is visible
+Sending Arabic prompt
+Sent text via send_keys: من أنت؟
+Clicked send button
+{'event': 'prompt_sent', 'prompt_len': 7, 'prompt_preview': 'من أنت؟'}
+{'event': 'response_received', 'chars': 500, 'delay_s': 6.31}
+Arabic similarity: 0.877

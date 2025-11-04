@@ -1,0 +1,11 @@
+Running in desktop mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: How to get new emirates id
+Short response (17 chars). Waiting up to 8s for additional content.
+Final after extra-wait: 17 chars
+English response seems incomplete, retrying
+Short response (16 chars). Waiting up to 8s for additional content.
+Final after extra-wait: 16 chars
+English similarity: 0.109
+Closing desktop driver session

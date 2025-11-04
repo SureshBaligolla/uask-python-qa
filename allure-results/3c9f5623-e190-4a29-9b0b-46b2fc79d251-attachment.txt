@@ -1,0 +1,12 @@
+[32mINFO    [0m uask:conftest.py:49 Running in desktop mode
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [/Users/apple123/.wdm/drivers/chromedriver/mac64/142.0.7444.59/chromedriver-mac-arm64/chromedriver] found in cache
+[32mINFO    [0m uask:chat_page.py:92 Chat input box is visible
+[32mINFO    [0m uask:test_chat_validation.py:37 Sending English prompt
+[32mINFO    [0m uask:chat_page.py:131 Sent text via send_keys: Hello
+[32mINFO    [0m uask:chat_page.py:178 {'event': 'prompt_sent', 'prompt_len': 5, 'prompt_preview': 'Hello'}
+[32mINFO    [0m uask:chat_page.py:390 {'event': 'response_received', 'chars': 310, 'delay_s': 3.66}
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[32mINFO    [0m uask:test_chat_validation.py:53 English similarity: 0.713

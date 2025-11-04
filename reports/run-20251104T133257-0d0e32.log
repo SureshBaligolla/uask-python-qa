@@ -1,0 +1,26 @@
+Running in desktop mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+{'event': 'prompt_sent', 'prompt_len': 5, 'prompt_preview': 'Hello'}
+{'event': 'response_received', 'chars': 290, 'delay_s': 3.28}
+English similarity: 0.743
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Who are you?
+{'event': 'prompt_sent', 'prompt_len': 12, 'prompt_preview': 'Who are you?'}
+{'event': 'response_received', 'chars': 576, 'delay_s': 3.57}
+English similarity: 0.947
+Chat input box is visible
+Sending Arabic prompt
+Sent text via send_keys: مرحبا
+{'event': 'prompt_sent', 'prompt_len': 5, 'prompt_preview': 'مرحبا'}
+{'event': 'response_received', 'chars': 266, 'delay_s': 3.87}
+Arabic similarity: 0.945
+Chat input box is visible
+Sending Arabic prompt
+Sent text via send_keys: من أنت؟
+{'event': 'prompt_sent', 'prompt_len': 7, 'prompt_preview': 'من أنت؟'}
+{'event': 'response_received', 'chars': 474, 'delay_s': 3.35}
+Arabic similarity: 0.87
+Closing desktop driver session

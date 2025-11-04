@@ -1,0 +1,17 @@
+Running in desktop mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+Timeout reached — returning best observed response
+English response seems incomplete, retrying
+Timeout reached — returning best observed response
+Closing desktop driver session
+Running in mobile emulation mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+Clicked send button
+Timeout reached — returning best observed response
+English response seems incomplete, retrying
+Timeout reached — returning best observed response
+Closing mobile driver session

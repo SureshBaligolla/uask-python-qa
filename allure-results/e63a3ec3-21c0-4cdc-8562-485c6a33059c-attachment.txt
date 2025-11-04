@@ -1,0 +1,10 @@
+Chat input box is visible
+Sending Arabic prompt
+Sent text via send_keys: مرحبا
+Clicked send button
+{'event': 'prompt_sent', 'prompt_len': 5, 'prompt_preview': 'مرحبا'}
+{'event': 'short_or_interim_detected', 'chars': 22, 'is_interim': False}
+{'event': 'observed_growth', 'chars': 79}
+{'event': 'observed_growth', 'chars': 219}
+{'event': 'response_received', 'chars': 218, 'delay_s': 4.67}
+Arabic similarity: 0.756

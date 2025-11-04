@@ -1,0 +1,22 @@
+Already logged in, skipping login step.
+⚠️ 'Log in with email' button not found, skipping...
+❌ Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100fa33b8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x0000000100f9b074 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x0000000100ab22c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100af98b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100b3ad84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100aedf18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x0000000100f657fc cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x0000000100f69018 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x0000000100f46614 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x0000000100f698f0 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x0000000100f37eb4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x0000000100f89a20 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x0000000100f89ba4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x0000000100f9acc4 cxxbridge1$str$ptr + 2906808
+14  libsystem_pthread.dylib             0x0000000195d64c08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000195d5fba8 thread_start + 8
+
+✅ Chat widget loaded correctly on: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1

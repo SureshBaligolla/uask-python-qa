@@ -1,0 +1,1 @@
+{"name": "test_chat_widget_loads[desktop]", "status": "passed", "parameters": [{"name": "driver", "value": "'desktop'"}], "start": 1762243788879, "stop": 1762243800722, "uuid": "12594f15-437a-43dd-93c5-a8c0395bab1e", "testCaseId": "8032a46e8d68f6ea580eb27107002ded", "fullName": "tests.test_ui_load#test_chat_widget_loads", "titlePath": ["tests", "test_ui_load.py"]}

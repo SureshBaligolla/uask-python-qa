@@ -1,0 +1,20 @@
+⚠️ 'Log in with email' button not found, skipping...
+Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010081b3b8 cxxbridge1$str$ptr + 2941356
+1   chromedriver                        0x0000000100813074 cxxbridge1$str$ptr + 2907752
+2   chromedriver                        0x000000010032a2c4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x00000001003718b4 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x00000001003b2d84 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633836
+5   chromedriver                        0x0000000100365f18 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x00000001007dd7fc cxxbridge1$str$ptr + 2688496
+7   chromedriver                        0x00000001007e1018 cxxbridge1$str$ptr + 2702860
+8   chromedriver                        0x00000001007be614 cxxbridge1$str$ptr + 2561032
+9   chromedriver                        0x00000001007e18f0 cxxbridge1$str$ptr + 2705124
+10  chromedriver                        0x00000001007afeb4 cxxbridge1$str$ptr + 2501800
+11  chromedriver                        0x0000000100801a20 cxxbridge1$str$ptr + 2836500
+12  chromedriver                        0x0000000100801ba4 cxxbridge1$str$ptr + 2836888
+13  chromedriver                        0x0000000100812cc4 cxxbridge1$str$ptr + 2906808
+14  libsystem_pthread.dylib             0x0000000195d64c08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000195d5fba8 thread_start + 8
+

@@ -1,0 +1,13 @@
+Closing desktop driver session
+Running in mobile emulation mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+Clicked send button
+{'event': 'prompt_sent', 'prompt_len': 5, 'prompt_preview': 'Hello'}
+{'event': 'short_or_interim_detected', 'chars': 22, 'is_interim': False}
+{'event': 'response_received', 'chars': 22, 'delay_s': 3.77}
+Saved debug artifacts for short response: screenshots/debug-20251104T123444-bb6a25-1762240211.png, screenshots/debug-20251104T123444-bb6a25-1762240211.html
+English response seems incomplete, retrying
+{'event': 'response_received', 'chars': 284, 'delay_s': 9.28}
+English similarity: 0.88

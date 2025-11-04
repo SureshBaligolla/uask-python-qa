@@ -1,0 +1,6 @@
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Who are you?
+Clicked send button
+Final AI response captured (778 chars)
+English similarity: 0.945

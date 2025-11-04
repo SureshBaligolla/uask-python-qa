@@ -1,0 +1,13 @@
+Running in desktop mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+Final AI response captured (324 chars)
+Closing desktop driver session
+Running in mobile emulation mode
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Hello
+Clicked send button
+Final AI response captured (294 chars)
+Closing mobile driver session

@@ -1,0 +1,6 @@
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: What is the capital city of the United Arab Emirates?
+{'event': 'prompt_sent', 'prompt_len': 53, 'prompt_preview': 'What is the capital city of the United Arab Emirates?'}
+{'event': 'response_received', 'chars': 116, 'delay_s': 4.57}
+English similarity: 0.924

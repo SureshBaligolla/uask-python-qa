@@ -1,0 +1,5 @@
+[32mINFO    [0m uask:conftest.py:49 Running in desktop mode
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [/Users/apple123/.wdm/drivers/chromedriver/mac64/142.0.7444.59/chromedriver-mac-arm64/chromedriver] found in cache

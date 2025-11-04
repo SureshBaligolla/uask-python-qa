@@ -1,0 +1,13 @@
+[32mINFO    [0m uask:conftest.py:63 Closing desktop driver session
+[32mINFO    [0m uask:conftest.py:46 Running in mobile emulation mode
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [/Users/apple123/.wdm/drivers/chromedriver/mac64/142.0.7444.59/chromedriver-mac-arm64/chromedriver] found in cache
+[32mINFO    [0m uask:chat_page.py:80 Chat input box is visible
+[32mINFO    [0m uask:test_chat_validation.py:31 Sending English prompt
+[32mINFO    [0m uask:chat_page.py:112 Sent text via send_keys: Hello
+[32mINFO    [0m uask:chat_page.py:143 Clicked send button
+[32mINFO    [0m uask:chat_page.py:239 Final AI response captured (288 chars)
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[32mINFO    [0m uask:test_chat_validation.py:47 English similarity: 0.784

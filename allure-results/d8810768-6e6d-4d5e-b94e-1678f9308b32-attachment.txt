@@ -1,0 +1,11 @@
+Chat input box is visible
+Sending English prompt
+Sent text via send_keys: Who are you?
+Clicked send button
+{'event': 'prompt_sent', 'prompt_len': 12, 'prompt_preview': 'Who are you?'}
+{'event': 'short_or_interim_detected', 'chars': 22, 'is_interim': False}
+{'event': 'response_received', 'chars': 22, 'delay_s': 3.5}
+Saved debug artifacts for short response: screenshots/debug-20251104T124808-9e86da-1762241248.png, screenshots/debug-20251104T124808-9e86da-1762241248.html
+English response seems incomplete, retrying
+{'event': 'response_received', 'chars': 648, 'delay_s': 10.12}
+English similarity: 0.954

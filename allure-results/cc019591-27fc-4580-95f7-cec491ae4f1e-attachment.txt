@@ -1,0 +1,11 @@
+Chat input box is visible
+Sending Arabic prompt
+Sent text via send_keys: من أنت؟
+Clicked send button
+{'event': 'prompt_sent', 'prompt_len': 7, 'prompt_preview': 'من أنت؟'}
+{'event': 'short_or_interim_detected', 'chars': 22, 'is_interim': False}
+{'event': 'response_received', 'chars': 22, 'delay_s': 3.82}
+Saved debug artifacts for short response: screenshots/debug-20251104T144655-8c1954-1762248636.png, screenshots/debug-20251104T144655-8c1954-1762248636.html
+Arabic response seems incomplete, retrying
+{'event': 'response_received', 'chars': 518, 'delay_s': 10.73}
+Arabic similarity: 0.852

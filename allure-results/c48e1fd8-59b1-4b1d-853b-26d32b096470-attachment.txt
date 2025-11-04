@@ -1,0 +1,3 @@
+Already logged in, skipping login step.
+Clicked 'Log in with email'.
+🔐 Login submitted with test credentials.

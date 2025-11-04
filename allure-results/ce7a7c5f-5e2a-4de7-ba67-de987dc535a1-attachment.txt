@@ -1,0 +1,8 @@
+[32mINFO    [0m uask:chat_page.py:92 Chat input box is visible
+[32mINFO    [0m uask:test_chat_validation.py:66 Sending Arabic prompt
+[32mINFO    [0m uask:chat_page.py:195 Sent text via send_keys: من أنت؟
+[32mINFO    [0m uask:chat_page.py:228 Clicked send button
+[32mINFO    [0m uask:chat_page.py:242 {'event': 'prompt_sent', 'prompt_len': 7, 'prompt_preview': 'من أنت؟'}
+[32mINFO    [0m uask:chat_page.py:570 {'event': 'response_received', 'chars': 500, 'delay_s': 6.31}
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[32mINFO    [0m uask:test_chat_validation.py:81 Arabic similarity: 0.877

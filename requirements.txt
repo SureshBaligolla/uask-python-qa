@@ -1,4 +1,5 @@
 selenium
+selenium-wire
 pytest
 pytest-html
 openai

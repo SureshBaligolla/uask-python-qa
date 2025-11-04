@@ -1,0 +1,9 @@
+Closing desktop driver session
+Running in mobile emulation mode
+Chat input box is visible
+Sending English prompt
+Sent text via JS fallback: Hello
+Clicked send button
+{'event': 'prompt_sent', 'prompt_len': 5, 'prompt_preview': 'Hello'}
+{'event': 'response_received', 'chars': 290, 'delay_s': 5.84}
+English similarity: 0.743
